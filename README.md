@@ -11,7 +11,7 @@ Logging stack components
 3.	Logs storage
 4.	Logs visualization
 
-<br><br>
+<br><br><br>
 
 logstash vs. fluentd
 --------------------
@@ -80,7 +80,7 @@ logstash vs. fluentd
 	-	에이전트를 통해 처리
 	-	모니터링 플로그인을 통해 확인 가능
 
-<br><br>
+<br><br><br>
 
 fluentd vs. fluent-bit
 ----------------------
@@ -112,6 +112,8 @@ fluentd vs. fluent-bit
 -	450KB 메모리 사용
 -	not pluggable, not flexible
 -	단순히 데이터를 보내기 위한 용도로 사용
+
+<br><br><br>
 
 kubernetes에 fluentd가 적합한 이유?
 -----------------------------------
