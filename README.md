@@ -1,16 +1,6 @@
 logging for kubernetes
 ======================
 
-<br><br>
-
-Logging stack components
-------------------------
-
-1.	logs exporter
-2.	Log collector
-3.	Logs storage
-4.	Logs visualization
-
 <br><br><br>
 
 logstash vs. fluentd
